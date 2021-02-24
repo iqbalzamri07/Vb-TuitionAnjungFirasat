@@ -1,0 +1,17 @@
+frmindex = 0, 0, 0, 0, C, 26, 26, 897, 508, C
+frmloginadmin = 59, 60, 997, 530, C, 0, 0, 597, 482, C
+frmloginteacher = 172, 112, 1019, 594, C, 145, 114, 709, 487, C
+Moduleteacher = 78, 78, 949, 560, C
+frmsignupteacher = 220, 58, 872, 651, C, 274, 406, 998, 1194, C
+frmadminstudent = 124, -9, 845, 570, C, 286, 45, 865, 736, C
+frmteacherdetails = 336, 52, 1012, 534, C, 65, -13, 645, 659, C
+frmadminteacher = 232, 8, 983, 589, C, 289, -13, 860, 685, C
+frmtimetableteacher = 321, 25, 982, 507, C, 52, -10, 880, 665, C
+frmsignupstudent = -13, -1, 693, 577, C, 120, 20, 836, 709, C
+frmloginstudent = 191, 143, 1038, 625, C, 26, 26, 601, 410, C
+frmstudentdetails = 269, 77, 949, 559, C, 59, 47, 642, 670, C
+frmtimetablestd = 22, 47, 869, 529, C, 192, -9, 1008, 651, C
+frmadmintimetablestd = 80, -13, 951, 469, , 174, 71, 828, 540, C
+frmadmintimetabletcr = 0, 0, 0, 0, C, 214, 35, 874, 482, C
+frmadmintimetablestudent = 157, 69, 1004, 551, C, 19, -1, 890, 658, C
+frmadmintimetableteacher = 147, 156, 994, 638, C, 35, 5, 882, 667, C

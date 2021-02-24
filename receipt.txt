@@ -1,0 +1,6 @@
+"=========PUSAT TUISYEN ANJUNG FIRASAT========="
+"==================RECEIPT====================="
+"             Subject Taken:                            "
+"             MAT03   : RM20                   "
+"             SC04    : RM20                    "
+"             TOTAL   : RM",40
